@@ -10,6 +10,7 @@ import Footer from '@/components/Footer'
 import siteMetadata from '@/data/siteMetadata'
 import { ThemeProviders } from './theme-providers'
 import { Metadata } from 'next'
+
 import { inglishenglosoftw8asc } from '@/components/hsciifp/hsciifonts'
 
 export const metadata: Metadata = {
